@@ -17,3 +17,5 @@
 - [ ] [Feedback Networks](https://arxiv.org/abs/1612.09508)
 - [ ] [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
 - [ ] [Meta-Unsupervised-Learning: A supervised approach to unsupervised learning](https://arxiv.org/abs/1612.09030)
+- [ ] [A Learned Representation For Artistic Style](https://arxiv.org/abs/1610.07629)
+- [ ] [Revisiting Batch Normalization For Practical Domain Adaptation](https://arxiv.org/abs/1603.04779)
