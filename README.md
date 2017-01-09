@@ -19,3 +19,4 @@
 - [ ] [Meta-Unsupervised-Learning: A supervised approach to unsupervised learning](https://arxiv.org/abs/1612.09030)
 - [ ] [A Learned Representation For Artistic Style](https://arxiv.org/abs/1610.07629)
 - [ ] [Revisiting Batch Normalization For Practical Domain Adaptation](https://arxiv.org/abs/1603.04779)
+- [ ] [Unsupervised neural and Bayesian models for zero-resource speech processing](http://arxiv.org/abs/1701.00851)
