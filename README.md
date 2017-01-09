@@ -20,3 +20,5 @@
 - [ ] [A Learned Representation For Artistic Style](https://arxiv.org/abs/1610.07629)
 - [ ] [Revisiting Batch Normalization For Practical Domain Adaptation](https://arxiv.org/abs/1603.04779)
 - [ ] [Unsupervised neural and Bayesian models for zero-resource speech processing](http://arxiv.org/abs/1701.00851)
+- [ ] [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+- [ ] [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349)
