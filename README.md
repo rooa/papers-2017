@@ -26,3 +26,5 @@
 - [ ] [Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities](https://arxiv.org/abs/1701.02025)
 - [ ] [Morphognosis: the shape of knowledge in space and time](https://arxiv.org/abs/1701.02272)
 - [ ] [Neural Personalized Response Generation as Domain Adaptation](https://arxiv.org/abs/1701.02073)
+- [ ] [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623)
+- [ ] [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker](https://arxiv.org/abs/1701.01724)
