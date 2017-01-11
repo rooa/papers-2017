@@ -1,6 +1,6 @@
 # (Mostly arXiv) papers I read in 2017.
 
-- [ ] [Self-critical Sequence Training for Image Captioning](https://arxiv.org/pdf/1612.00563v1.pdf)
+- [x] [Self-critical Sequence Training for Image Captioning](https://arxiv.org/pdf/1612.00563v1.pdf)
 - [x] [Continuous multilinguality with language vectors](https://arxiv.org/abs/1612.07486)
 - [ ] [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07512)
 - [x] [How to Train Your Deep Neural Network with Dictionary Learning](https://arxiv.org/abs/1612.07454)
@@ -28,3 +28,7 @@
 - [ ] [Neural Personalized Response Generation as Domain Adaptation](https://arxiv.org/abs/1701.02073)
 - [ ] [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623)
 - [ ] [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker](https://arxiv.org/abs/1701.01724)
+- [ ] [Learning multilingual named entity recognition from Wikipedia](https://pdfs.semanticscholar.org/696b/505083d34c6f995aef88d0352d70d7f7e8c8.pdf)
+- [ ] [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://arxiv.org/abs/1506.03099)
+- [ ] [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/abs/1610.09038)
+- [ ] [An Actor-Critic Algorithm for Sequence Prediction](https://arxiv.org/abs/1607.07086)
