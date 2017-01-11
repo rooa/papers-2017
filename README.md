@@ -2,7 +2,7 @@
 
 - [x] [Self-critical Sequence Training for Image Captioning](https://arxiv.org/pdf/1612.00563v1.pdf)
 - [x] [Continuous multilinguality with language vectors](https://arxiv.org/abs/1612.07486)
-- [ ] [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07512)
+- [ ] [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07828)
 - [x] [How to Train Your Deep Neural Network with Dictionary Learning](https://arxiv.org/abs/1612.07454)
 - [ ] [Quantum Machine Learning without Measurements](https://arxiv.org/abs/1612.05535)
 - [x] [Online Sequence-to-Sequence Active Learning for Open-Domain Dialogue Generation](https://arxiv.org/abs/1612.03929)
