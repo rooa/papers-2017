@@ -6,7 +6,7 @@
 - [ ] [Deep Learning for Time-Series Analysis](https://arxiv.org/abs/1701.01887)
 - [ ] [Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities](https://arxiv.org/abs/1701.02025)
 - [ ] [Morphognosis: the shape of knowledge in space and time](https://arxiv.org/abs/1701.02272)
-- [ ] [Neural Personalized Response Generation as Domain Adaptation](https://arxiv.org/abs/1701.02073)
+- [x] [Neural Personalized Response Generation as Domain Adaptation](https://arxiv.org/abs/1701.02073)
 - [ ] [DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker](https://arxiv.org/abs/1701.01724)
 - [ ] [Generating Long and Diverse Responses with Neural Conversation Models](https://arxiv.org/abs/1701.03185)
 - [ ] [Heterogeneous Unsupervised Cross-domain Transfer Learning](https://arxiv.org/abs/1701.02511)
