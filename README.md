@@ -11,7 +11,7 @@
 - [ ] [Generating Long and Diverse Responses with Neural Conversation Models](https://arxiv.org/abs/1701.03185)
 - [ ] [Heterogeneous Unsupervised Cross-domain Transfer Learning](https://arxiv.org/abs/1701.02511)
 - [ ] [Implicitly Incorporating Morphological Information into Word Embedding](https://arxiv.org/abs/1701.02481)
-- [ ] [A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling](https://arxiv.org/abs/1701.02593)
+- [x] [A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling](https://arxiv.org/abs/1701.02593)
 - [ ] [Unsupervised Image-to-Image Translation with Generative Adversarial Networks](https://arxiv.org/abs/1701.02676)
 - [ ] [AdaGAN: Boosting Generative Models](https://arxiv.org/abs/1701.02386)
 - [ ] [Reinforcement Learning via Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1701.02392)
