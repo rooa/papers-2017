@@ -49,3 +49,4 @@
 - [x] [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [ ] [A Convolutional Neural Network for Modelling Sentences](https://arxiv.org/abs/1404.2188)
 - [ ] [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/abs/1611.00712)
+- [x] [Incorporating Side Information into Recurrent Neural Network Language Models](http://people.eng.unimelb.edu.au/tcohn/papers/naacl16vu.pdf)
