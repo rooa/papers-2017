@@ -55,3 +55,7 @@
 - [ ] [A Convolutional Neural Network for Modelling Sentences](https://arxiv.org/abs/1404.2188)
 - [ ] [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/abs/1611.00712)
 - [x] [Incorporating Side Information into Recurrent Neural Network Language Models](http://people.eng.unimelb.edu.au/tcohn/papers/naacl16vu.pdf)
+- [ ] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783v2)
+- [ ] [Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification](https://arxiv.org/abs/1606.01614v2)
+- [ ] [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](https://www.semanticscholar.org/paper/Simple-Statistical-Gradient-Following-Algorithms-Williams/39f52477c2efeef451a309caf74c4145e05efa79)
+- [ ] [Inside-Outside and Forward-Backward Algorithms Are Just Backprop(Tutorial Paper)](https://structuredprediction.github.io/final/11/11_Paper.pdf)
