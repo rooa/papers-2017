@@ -18,6 +18,11 @@
 - [ ] [Parsing Universal Dependencies without training](https://arxiv.org/abs/1701.03163)
 - [ ] [Context-aware Captions from Context-agnostic Supervision](https://arxiv.org/abs/1701.02870)
 - [ ] [Decoding as Continuous Optimization in Neural Machine Translation](https://arxiv.org/abs/1701.02854)
+- [x] [Neural Models for Sequence Chunking](https://arxiv.org/abs/1701.04027)
+- [x] [QCRI Machine Translation Systems for IWSLT 16](https://arxiv.org/abs/1701.03924)
+- [ ] [DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/abs/1701.03980)
+- [ ] [Deep Memory Networks for Attitude Identification](https://arxiv.org/abs/1701.04189)
+- [ ] [End-to-End ASR-free Keyword Search from Speech](https://arxiv.org/abs/1701.04313)
 
 
 ## ~2016
