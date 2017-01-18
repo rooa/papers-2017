@@ -2,7 +2,7 @@
 
 ## 2017~
 - [ ] [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
-- [ ] [Unsupervised neural and Bayesian models for zero-resource speech processing](http://arxiv.org/abs/1701.00851)
+- [ ] [Vulnerability of Deep Reinforcement Learning to Policy Induction Attacks](https://arxiv.org/abs/1701.04143)
 - [ ] [Deep Learning for Time-Series Analysis](https://arxiv.org/abs/1701.01887)
 - [ ] [Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities](https://arxiv.org/abs/1701.02025)
 - [ ] [Morphognosis: the shape of knowledge in space and time](https://arxiv.org/abs/1701.02272)
@@ -23,6 +23,9 @@
 - [ ] [DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/abs/1701.03980)
 - [ ] [Deep Memory Networks for Attitude Identification](https://arxiv.org/abs/1701.04189)
 - [ ] [End-to-End ASR-free Keyword Search from Speech](https://arxiv.org/abs/1701.04313)
+- [ ] [Understanding the Effective Receptive Field in Deep Convolutional Neural Networks](https://arxiv.org/abs/1701.04128)
+- [ ] [Near Optimal Behavior via Approximate State Abstraction](https://arxiv.org/abs/1701.04113)
+- [ ] [Agent-Agnostic Human-in-the-Loop Reinforcement Learning](https://arxiv.org/abs/1701.04079)
 
 
 ## ~2016
@@ -32,7 +35,7 @@
 - [x] [How to Train Your Deep Neural Network with Dictionary Learning](https://arxiv.org/abs/1612.07454)
 - [ ] [Quantum Machine Learning without Measurements](https://arxiv.org/abs/1612.05535)
 - [x] [Online Sequence-to-Sequence Active Learning for Open-Domain Dialogue Generation](https://arxiv.org/abs/1612.03929)
-- [ ] [Learning representations through stochastic gradient descent in cross-validation error](https://arxiv.org/abs/1612.02879)
+- [x] [Learning representations through stochastic gradient descent in cross-validation error](https://arxiv.org/abs/1612.02879)
 - [ ] [Probabilistic Neural Programs](https://arxiv.org/abs/1612.00712)
 - [ ] [Neural Document Embeddings for Intensive Care Patient Mortality Prediction](https://arxiv.org/abs/1612.00467)
 - [ ] [Transfer Learning Across Patient Variations with Hidden Parameter Markov Decision Processes](https://arxiv.org/abs/1612.00475)
