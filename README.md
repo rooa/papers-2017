@@ -28,6 +28,7 @@
 - [ ] [Agent-Agnostic Human-in-the-Loop Reinforcement Learning](https://arxiv.org/abs/1701.04079)
 - [ ] [Agglomerative Info-Clustering](https://arxiv.org/abs/1701.04926)
 - [x] [Learning to Decode for Future Success](https://arxiv.org/abs/1701.06549)
+= [ ] [Memory Augmented Neural Networks with Wormhole Connections](https://arxiv.org/abs/1701.08718)
 
 ## ~2016
 - [x] [Self-critical Sequence Training for Image Captioning](https://arxiv.org/pdf/1612.00563v1.pdf)
