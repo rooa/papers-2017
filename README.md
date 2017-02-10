@@ -77,4 +77,5 @@
 - [ ] [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838)
 - [ ] [Learning to Compose Words into Sentences with Reinforcement Learning](https://arxiv.org/abs/1611.09100)
 - [ ] [Convolutional Residual Memory Networks](https://arxiv.org/abs/1606.05262)
-- [ ] [Active One-shot Learning](https://cs.stanford.edu/~woodward/papers/active_one_shot_learning_2016.pdf)
+- [ ] [Active One-shot Learning](https://cs.stanford.edu/~woodward/papers/active_one_shot_learning_2016.pdf-
+- [ ] [A Growing Long-term Episodic & Semantic Memory](https://arxiv.org/abs/1610.06402)
