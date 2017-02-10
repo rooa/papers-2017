@@ -38,6 +38,7 @@
 - [ ] [Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter](https://arxiv.org/abs/1702.00763)
 - [ ] [IQN: An Incremental Quasi-Newton Method with Local Superlinear Convergence Rate](https://arxiv.org/abs/1702.00709)
 - [ ] [Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey](https://arxiv.org/abs/1702.00764)
+- [ ] [Improving Policy Gradient by Exploring Under-appreciated Rewards](https://arxiv.org/abs/1611.09321)
 
 
 ## ~2016
@@ -75,3 +76,5 @@
 - [ ] [Inside-Outside and Forward-Backward Algorithms Are Just Backprop(Tutorial Paper)](https://structuredprediction.github.io/final/11/11_Paper.pdf)
 - [ ] [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838)
 - [ ] [Learning to Compose Words into Sentences with Reinforcement Learning](https://arxiv.org/abs/1611.09100)
+- [ ] [Convolutional Residual Memory Networks](https://arxiv.org/abs/1606.05262)
+- [ ] [Active One-shot Learning](https://cs.stanford.edu/~woodward/papers/active_one_shot_learning_2016.pdf)
