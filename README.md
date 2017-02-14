@@ -39,6 +39,19 @@
 - [ ] [IQN: An Incremental Quasi-Newton Method with Local Superlinear Convergence Rate](https://arxiv.org/abs/1702.00709)
 - [ ] [Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey](https://arxiv.org/abs/1702.00764)
 - [ ] [Improving Policy Gradient by Exploring Under-appreciated Rewards](https://arxiv.org/abs/1611.09321)
+- [ ] [Parallel Long Short-Term Memory for Multi-stream Classification](https://arxiv.org/abs/1702.03402)
+- [ ] [Learning to Parse and Translate Improves Neural Machine Translation](https://arxiv.org/abs/1702.03525)
+- [ ] [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274)
+- [ ] [Generative Mixture of Networks](https://arxiv.org/abs/1702.03307)
+- [ ] [Knowledge Adaptation: Teaching to Adapt](https://arxiv.org/abs/1702.02052)
+- [ ] [Fast and Accurate Sequence Labeling with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
+- [ ] [All-but-the-Top: Simple and Effective Postprocessing for Word Representations](https://arxiv.org/abs/1702.01417)
+- [ ] [Trainable Greedy Decoding for Neural Machine Translation](https://arxiv.org/abs/1702.02429)
+- [ ] [Deep Generalized Canonical Correlation Analysis](https://arxiv.org/abs/1702.02519)
+- [ ] [Deep Kernelized Autoencoders](https://arxiv.org/abs/1702.02526)
+- [ ] [Efficient Policy Learning](https://arxiv.org/abs/1702.02896)
+- [ ] [Semi-Supervised QA with Generative Domain-Adaptive Nets](https://arxiv.org/abs/1702.02206)
+- [ ] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
 
 
 ## ~2016
